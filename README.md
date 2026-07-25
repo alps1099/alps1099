@@ -1,6 +1,5 @@
 - 👋 Hi there! Welcome to my space :)
 - 🌱 I’m currently learning advanced python, machine learning and data science
-- 📫 How to reach me alpanashekar@gmail.com
 
 
 <!---
